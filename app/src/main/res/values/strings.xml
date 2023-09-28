@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Aston_HW_3_Lists_20</string>
+    <string name="app_name">HW_3_Lists</string>
+    <string name="countryFlag">countryFlag</string>
+    <string name="addContact">addContact</string>
+    <string name="name">name</string>
+    <string name="second_name">second name</string>
+    <string name="phone_number">phone number</string>
 </resources>
