@@ -1,8 +1,7 @@
-package com.becker.aston_hw_3_lists_20
+package com.becker.hw_3_lists
 
+import org.junit.Assert.assertEquals
 import org.junit.Test
-
-import org.junit.Assert.*
 
 /**
  * Example local unit test, which will execute on the development machine (host).
